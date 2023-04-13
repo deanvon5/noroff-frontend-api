@@ -55,6 +55,9 @@ Each API endpoint contains both open and protected endpoints. All `GET` endpoint
 ### Pokémon Trainer API
 [Pokémon Trainer](./docs/pokemon-trainer.md)
 
+### Shelf Help (Books) API
+[Shelf Help](./docs/books.md)
+
 # Special thanks to Typicode for json-server
 
 [Github: json-server](https://github.com/typicode/json-server)
